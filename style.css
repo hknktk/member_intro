@@ -1,7 +1,7 @@
 * {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  font-family: 'Roboto',sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 html {
@@ -38,8 +38,8 @@ body h3 {
 
 body .card {
   position: relative;
-  width: 22rem;
-  height: 26rem;
+  width: 18rem;
+  height: 24rem;
   background-color: #fff;
   -webkit-transform-style: preserve-3d;
           transform-style: preserve-3d;
@@ -135,13 +135,13 @@ body .card .details .content h2 {
   text-align: center;
   font-weight: 700;
   line-height: 1.8rem;
-  font-size: 2rem;
+  font-size: 1.8rem;
   color: #333;
 }
 
 body .card .details .content h2 span {
   color: #ad0c0c;
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   font-style: italic;
 }
 
@@ -171,8 +171,8 @@ body .card .details .content .social-icons a {
   text-decoration: none;
   margin: 0.5rem;
   font-size: 1.6rem;
-  -webkit-transition: .2s;
-  transition: .2s;
+  -webkit-transition: 0.2s;
+  transition: 0.2s;
 }
 
 body .card .details .content .social-icons a:hover {
